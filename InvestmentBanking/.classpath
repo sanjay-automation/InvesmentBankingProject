@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/All Jar file/activation-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/All Jar file/commons-codec-1.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/All Jar file/commons-collections4-4.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/All Jar file/commons-compress-1.18.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/All Jar file/commons-io-2.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/All Jar file/commons-io-2.6-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/All Jar file/commons-io-2.6-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/All Jar file/commons-io-2.6-tests.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/All Jar file/commons-io-2.6-test-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/All Jar file/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/All Jar file/commons-math3-3.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/All Jar file/curvesapi-1.05.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/All Jar file/jaxb-api-2.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/All Jar file/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/All Jar file/jaxb-impl-2.3.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/All Jar file/junit-4.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/All Jar file/log4j-1.2.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/All Jar file/poi-4.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/All Jar file/poi-examples-4.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/All Jar file/poi-excelant-4.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/All Jar file/poi-ooxml-4.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/All Jar file/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/All Jar file/poi-scratchpad-4.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/All Jar file/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/All Jar file/xmlbeans-3.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/Jar File/poi-bin-3.8-20120326/poi-3.8/lib/commons-logging-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/Jar File/poi-bin-3.8-20120326/poi-3.8/lib/junit-3.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/Jar File/poi-bin-3.8-20120326/poi-3.8/lib/log4j-1.2.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/Jar File/poi-bin-3.8-20120326/poi-3.8/ooxml-lib/dom4j-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/Jar File/poi-bin-3.8-20120326/poi-3.8/ooxml-lib/stax-api-1.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/Jar File/poi-bin-3.8-20120326/poi-3.8/ooxml-lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/Jar File/poi-bin-3.8-20120326/poi-3.8/poi-3.8-20120326.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/Jar File/poi-bin-3.8-20120326/poi-3.8/poi-examples-3.8-20120326.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/Jar File/poi-bin-3.8-20120326/poi-3.8/poi-excelant-3.8-20120326.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/Jar File/poi-bin-3.8-20120326/poi-3.8/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/Jar File/poi-bin-3.8-20120326/poi-3.8/poi-ooxml-schemas-3.8-20120326.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Testing/java/Jar File/poi-bin-3.8-20120326/poi-3.8/poi-scratchpad-3.8-20120326.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
